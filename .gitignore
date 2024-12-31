@@ -1,6 +1,10 @@
+# .gitignore
 .idea/
 .classpath
 .project
 .settings
 target
 *.iml
+.1024*
+!.1024
+.breakpoints
